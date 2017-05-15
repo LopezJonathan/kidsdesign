@@ -1,0 +1,11 @@
+Embed:
+<link href="https://fonts.googleapis.com/css?family=Henny+Penny|Princess+Sofia|Short+Stack|Walter+Turncoat" rel="stylesheet">
+
+@import:
+@import url('https://fonts.googleapis.com/css?family=Henny+Penny|Princess+Sofia|Short+Stack|Walter+Turncoat');
+
+CSS:
+font-family: 'Walter Turncoat', cursive;
+font-family: 'Henny Penny', cursive;
+font-family: 'Short Stack', cursive;
+font-family: 'Princess Sofia', cursive;
