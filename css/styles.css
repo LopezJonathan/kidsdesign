@@ -27,6 +27,20 @@ main {
   border-radius: 5px; }
 
 /* Header Scss Document */
+nav ul li {
+	list-style: none;
+	text-align: center;
+	border-style: solid;
+	border-radius: 8px;
+	padding: 6px 8px;
+	width: 100px;
+}
+
+nav ul {
+	display: flex;
+	flex-flow: row wrap;
+}
+
 /* Footer Scss Document */
 footer {
   display: none; }
