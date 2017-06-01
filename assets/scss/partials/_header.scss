@@ -2,17 +2,15 @@
 
 nav ul {
   display: flex;
-  flex-flow: row wrap; 
-	justify-content: center;
-}
+  flex-flow: row wrap;
+  justify-content: center; }
 
 nav ul li {
   font-family: "Walter Turncoat", cursive;
   font-size: 26px;
   list-style: none;
   text-align: center;
-  padding: 6px 8px;
-}
+  padding: 6px 8px; }
 
 nav a {
   color: black;
@@ -28,5 +26,4 @@ nav a {
   font-family: 'Henny Penny', cursive;
   font-size: 46px;
   color: #c900ff;
-  text-shadow: 2px 2px 6px;
-}
+  text-shadow: 2px 2px 6px; }
