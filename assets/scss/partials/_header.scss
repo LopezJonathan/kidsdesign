@@ -2,63 +2,31 @@
 
 nav ul {
   display: flex;
-  flex-flow: row wrap; }
+  flex-flow: row wrap; 
+	justify-content: center;
+}
 
 nav ul li {
-	font-family: $walterturncoat;
-	font-size: 26px;
+  font-family: "Walter Turncoat", cursive;
+  font-size: 26px;
   list-style: none;
   text-align: center;
   padding: 6px 8px;
-  width: 100px; }
-nav a {
-	color: black;
-	background-color: transparent;
-	text-decoration: none;
-	
 }
+
+nav a {
+  color: black;
+  background-color: transparent;
+  text-decoration: none; }
 
 #logo {
-	-ms-transform: rotate(-7deg); /* IE 9 */
-    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
-    transform: rotate(-7deg);
-	
-	font-family: 'Henny Penny', cursive;
-	font-size: 46px;
-	color: purple;
-	text-shadow: 2px 2px 6px;
-	
-   }
-
-/*.main-nav{
-    height:40px;
-    margin:auto;
+  -ms-transform: rotate(-7deg);
+  /* IE 9 */
+  -webkit-transform: rotate(-7deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(-7deg);
+  font-family: 'Henny Penny', cursive;
+  font-size: 46px;
+  color: #c900ff;
+  text-shadow: 2px 2px 6px;
 }
-
-.main-nav ul{
-	margin:0 auto;
-    width:800px;
-    padding:12px;
-    list-style: none;
-}
-
-.main-nav li{
-	float: left;
-}
-
-.main-nav a {
-	color: black;
-	background-color: transparent;
-	text-decoration: none;
-  padding:0 14px;
-  text-align:center;
-  display:block;
-}
-
-.main-nav ul li a #logo{
-	height:140px;
-    display:block;
-    width:215px;
-    margin-top:-61px;
-    padding: 0;
-}*/
