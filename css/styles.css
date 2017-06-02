@@ -63,6 +63,18 @@ nav a {
   color: #c900ff;
   text-shadow: 2px 2px 6px; }
 
+.index-logo {
+  text-align: center;
+  margin: 5% auto; }
+
+.index-nav {
+  width: 100%; }
+
+.index-nav li {
+  border: 6px outset;
+  width: 50%;
+  margin: 2px auto; }
+
 /* Footer Scss Document */
 footer {
   display: none; }
